@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://Amele_2020:Amele_2020@covid19-fighters-rfitx.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"secrat"
+  
+}
+
